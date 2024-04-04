@@ -16,7 +16,7 @@ pip install pandas numpy scikit-learn
 ```
 
 # Project Description:
-This project comprises a Python script named `titanic_survival_prediction.py`, which performs the following tasks:
+This project comprises a Python script named `Titanic_Passenger_Survival_Prediction_using_Machine_Learning.ipynb`, which performs the following tasks:
 
 1. Importing necessary libraries, including pandas, numpy, and scikit-learn.
 2. Reading data from the Titanic dataset.
